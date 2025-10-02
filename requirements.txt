@@ -1,1 +1,14 @@
-"pandas\nnumpy\nscikit-learn\nxgboost\ntensorflow\nmatplotlib\nseaborn\nprophet" 
+pandas
+numpy
+scikit-learn
+joblib
+streamlit
+matplotlib
+seaborn
+xgboost
+scipy
+plotly
+statsmodels
+pmdarima
+python-dateutil
+tqdm
